@@ -2,7 +2,8 @@
 <h1 align="center">Hi There! I'm Earl James👋</h1>
 <h3 align="center">A Computer Science Student from Philippines</h3>
 
-<img alig n="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473v6241faridgz4g0py7t2qc2mv8sbysdlgosj9wr&rid=giphy.gif&ct=g">
+<p align= "left"> <img width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473v6241faridgz4g0py7t2qc2mv8sbysdlgosj9wr&rid=giphy.gif&ct=g">
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
