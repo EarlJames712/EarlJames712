@@ -1,4 +1,4 @@
-<h1 align="center">Hi There! I'm 👋, I'm Earl James👋</h1>
+<h1 align="center">Hi There! I'm Earl James👋</h1>
 <h3 align="center">A Computer Science Student from Philippines</h3>
 
 <h3 align="left">Connect with me:</h3>
