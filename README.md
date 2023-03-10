@@ -2,10 +2,6 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  border-radius: 20%;
-}
 </style>
 </head>
 <body>
