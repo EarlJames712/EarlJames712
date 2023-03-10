@@ -1,5 +1,4 @@
-
-<body = "bgcolor: #101010">
+<body style="background-color:#101010;">
 
 <h1 align="center">Hi There! I'm Earl James👋</h1>
 <h3 align="center">A Computer Science Student from Philippines</h3>
