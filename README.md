@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/EarlJames712/EarlJames712/blob/main/binary.gif)
 <h1 align="center">Hi There! I'm Earl James👋</h1>
 <h3 align="center">A Computer Science Student from Philippines</h3>
 
