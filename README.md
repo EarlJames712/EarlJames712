@@ -10,7 +10,7 @@ img {
 </head>
 <body>
 
-<img width="300" height="200" src="https://github.com/EarlJames712/EarlJames712/blob/main/binary.gif" style="width:200px">
+<img width="300" height="200" src="https://github.com/EarlJames712/EarlJames712/blob/main/binary.gif" class="rounded ; d-block">
 <h1 align="center">Hi There! I'm Earl James👋</h1>
 <h3 align="center">A Computer Science Student from Philippines</h3>
 
