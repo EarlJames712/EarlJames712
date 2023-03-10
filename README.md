@@ -1,8 +1,8 @@
-![logo](https://github.com/EarlJames712/EarlJames712/blob/main/binary.gif)
+<img width="40000" src="https://github.com/EarlJames712/EarlJames712/blob/main/binary.gif">
 <h1 align="center">Hi There! I'm Earl James👋</h1>
 <h3 align="center">A Computer Science Student from Philippines</h3>
 
-<p align= "left"> <img width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473v6241faridgz4g0py7t2qc2mv8sbysdlgosj9wr&rid=giphy.gif&ct=g">
+<p align= "right"> <img width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473v6241faridgz4g0py7t2qc2mv8sbysdlgosj9wr&rid=giphy.gif&ct=g">
  </p>
 
 <h3 align="left">Connect with me:</h3>
